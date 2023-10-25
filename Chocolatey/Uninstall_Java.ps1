@@ -1,0 +1,1 @@
+cuninst jre8 -y

@@ -1,0 +1,1 @@
+choco install choco-upgrade-all-at-startup -y

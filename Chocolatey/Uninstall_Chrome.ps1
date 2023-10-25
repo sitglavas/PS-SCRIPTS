@@ -1,0 +1,1 @@
+cuninst googlechrome -y
