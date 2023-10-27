@@ -13,6 +13,6 @@ Import-Module ExchangeOnlineManagement
 #Step 2: Connect and authenticate
 # Connect-ExchangeOnline -UserPrincipalName <UPN> [-UseRPSSession] [-ExchangeEnvironmentName <Value>] [-ShowBanner:$false] [-DelegatedOrganization <String>] [-PSSessionOption $ProxyOptions]
 
-$UPN = "sitadmin@s-it.be"
+$UPN = ""
 
 Connect-ExchangeOnline -UserPrincipalName $UPN 
